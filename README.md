@@ -39,13 +39,6 @@ Learn to spot and remove potentially harmful browser extensions to enhance brows
 
 ---
 
-## ❓ Interview Questions
-1. What permissions should raise suspicion?
-2. How to safely install browser extensions?
-3. How can malicious extensions harm users?
-
----
-
 ## 👤 Author
 **Panchal Parth Rajendrabhai**  
 Cyber Security Intern – Elevate Labs
